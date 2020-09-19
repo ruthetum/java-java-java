@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df9fe130-fdf0-4ab1-9d06-23aab70a6b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter4/example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/example2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.example2">
     <configuration name="example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter4.example1" />
       <module name="JavaExample" />
@@ -59,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.example2" />
+      <module name="JavaExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.example2" />
         <item itemvalue="Application.example1" />
       </list>
     </recent_temporary>
@@ -90,9 +104,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="122" y="0" key="#Project_Structure" timestamp="1600472575151">
+    <state x="122" y="0" key="#Project_Structure" timestamp="1600473192635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="122" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1600472575151" />
+    <state x="122" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1600473192635" />
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600473067941">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600473067941" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1600473115871">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600473115871" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1600473115870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600473115870" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1600473115870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600473115870" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1600473115870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600473115870" />
   </component>
 </project>
