@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df9fe130-fdf0-4ab1-9d06-23aab70a6b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JumpToJava/SelfNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/ColorPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/JumpToJava/SelfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/JumpToJava/SelfNumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.SelfNumber2">
+  <component name="RunManager" selected="Application.ColorPoint">
+    <configuration name="ColorPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.ColorPoint" />
+      <module name="JavaExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JumpToJava.SelfNumber" />
       <module name="JavaExample" />
@@ -67,19 +79,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JumpToJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.example5" />
-      <module name="JavaExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ColorPoint" />
         <item itemvalue="Application.SelfNumber2" />
         <item itemvalue="Application.SelfNumber" />
         <item itemvalue="Application.multiplesOf3And5" />
         <item itemvalue="Application.example8" />
-        <item itemvalue="Application.example5" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +145,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="122" y="0" key="#Project_Structure" timestamp="1600473192635">
@@ -156,22 +156,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600473067941" />
-    <state width="1237" height="120" key="GridCell.Tab.0.bottom" timestamp="1600484317420">
+    <state width="1237" height="120" key="GridCell.Tab.0.bottom" timestamp="1600484694716">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600484317420" />
-    <state width="1237" height="120" key="GridCell.Tab.0.center" timestamp="1600484317420">
+    <state width="1237" height="120" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600484694716" />
+    <state width="1237" height="120" key="GridCell.Tab.0.center" timestamp="1600484694716">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600484317420" />
-    <state width="1237" height="120" key="GridCell.Tab.0.left" timestamp="1600484317419">
+    <state width="1237" height="120" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600484694716" />
+    <state width="1237" height="120" key="GridCell.Tab.0.left" timestamp="1600484694716">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600484317419" />
-    <state width="1237" height="120" key="GridCell.Tab.0.right" timestamp="1600484317420">
+    <state width="1237" height="120" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600484694716" />
+    <state width="1237" height="120" key="GridCell.Tab.0.right" timestamp="1600484694716">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600484317420" />
+    <state width="1237" height="120" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600484694716" />
     <state x="32" y="0" key="new project wizard" timestamp="1600476577913">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
