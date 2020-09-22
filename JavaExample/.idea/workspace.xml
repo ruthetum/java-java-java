@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df9fe130-fdf0-4ab1-9d06-23aab70a6b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7/HashMapEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/CollectionsEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +46,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.HashMapEx2">
+  <component name="RunManager" selected="Application.CollectionsEx">
     <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter7.ArrayListEx" />
+      <module name="JavaExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.CollectionsEx" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
@@ -99,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointVecter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.PointVecter" />
-      <module name="JavaExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionsEx" />
         <item itemvalue="Application.HashMapEx2" />
         <item itemvalue="Application.HashMapEx1" />
         <item itemvalue="Application.IteratorEx" />
         <item itemvalue="Application.ArrayListEx" />
-        <item itemvalue="Application.PointVecter" />
       </list>
     </recent_temporary>
   </component>
@@ -160,29 +160,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600612996236" />
-    <state width="1237" height="120" key="GridCell.Tab.0.bottom" timestamp="1600817178183">
+    <state width="1237" height="120" key="GridCell.Tab.0.bottom" timestamp="1600818714526">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600817178183" />
-    <state width="1237" height="120" key="GridCell.Tab.0.center" timestamp="1600817178183">
+    <state width="1237" height="120" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600818714526" />
+    <state width="1237" height="120" key="GridCell.Tab.0.center" timestamp="1600818714525">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600817178183" />
-    <state width="1237" height="120" key="GridCell.Tab.0.left" timestamp="1600817178183">
+    <state width="1237" height="120" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600818714525" />
+    <state width="1237" height="120" key="GridCell.Tab.0.left" timestamp="1600818714525">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600817178183" />
-    <state width="1237" height="120" key="GridCell.Tab.0.right" timestamp="1600817178183">
+    <state width="1237" height="120" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600818714525" />
+    <state width="1237" height="120" key="GridCell.Tab.0.right" timestamp="1600818714525">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600817178183" />
+    <state width="1237" height="120" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600818714525" />
     <state x="32" y="0" key="new project wizard" timestamp="1600476577913">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="32" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1600476577913" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600483280534">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600817890084">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600483280534" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600817890084" />
   </component>
 </project>
