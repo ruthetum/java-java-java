@@ -11,10 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df9fe130-fdf0-4ab1-9d06-23aab70a6b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter13/FlagEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/SynchronizedEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/chapter13/InterruptEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/chapter13/InterruptEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/chapter13/InterruptThred.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/chapter13/InterruptThred.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +46,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.FlagEx">
-    <configuration name="FileWriterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8.FileWriterEx" />
-      <module name="JavaExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SynchronizedEx">
     <configuration name="FlagEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter13.FlagEx" />
       <module name="JavaExample" />
@@ -101,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SynchronizedEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter13.SynchronizedEx" />
+      <module name="JavaExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreadEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter13.ThreadEX" />
       <module name="JavaExample" />
@@ -116,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SynchronizedEx" />
         <item itemvalue="Application.FlagEx" />
         <item itemvalue="Application.InterruptEx" />
         <item itemvalue="Application.RunnableEx1" />
         <item itemvalue="Application.ThreadEX" />
-        <item itemvalue="Application.FileWriterEx" />
       </list>
     </recent_temporary>
   </component>
@@ -162,22 +160,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600612996236" />
-    <state width="1237" height="120" key="GridCell.Tab.0.bottom" timestamp="1601171076416">
+    <state width="1237" height="120" key="GridCell.Tab.0.bottom" timestamp="1601172091281">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601171076416" />
-    <state width="1237" height="120" key="GridCell.Tab.0.center" timestamp="1601171076416">
+    <state width="1237" height="120" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601172091281" />
+    <state width="1237" height="120" key="GridCell.Tab.0.center" timestamp="1601172091281">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601171076416" />
-    <state width="1237" height="120" key="GridCell.Tab.0.left" timestamp="1601171076416">
+    <state width="1237" height="120" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601172091281" />
+    <state width="1237" height="120" key="GridCell.Tab.0.left" timestamp="1601172091281">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601171076416" />
-    <state width="1237" height="120" key="GridCell.Tab.0.right" timestamp="1601171076416">
+    <state width="1237" height="120" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601172091281" />
+    <state width="1237" height="120" key="GridCell.Tab.0.right" timestamp="1601172091281">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="120" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601171076416" />
+    <state width="1237" height="120" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601172091281" />
     <state x="32" y="0" key="new project wizard" timestamp="1600476577913">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
