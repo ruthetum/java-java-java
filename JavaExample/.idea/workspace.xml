@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df9fe130-fdf0-4ab1-9d06-23aab70a6b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter13/ThreadEX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/RunnableEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +45,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ThreadEX">
-    <configuration name="FileOutputStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8.FileOutputStreamEx" />
-      <module name="JavaExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RunnableEx1">
     <configuration name="FileReaderEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter8.FileReaderEx" />
       <module name="JavaExample" />
@@ -99,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunnableEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter13.RunnableEx1" />
+      <module name="JavaExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreadEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter13.ThreadEX" />
       <module name="JavaExample" />
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunnableEx1" />
         <item itemvalue="Application.ThreadEX" />
         <item itemvalue="Application.FileWriterEx" />
         <item itemvalue="Application.InputStreamReaderEx" />
         <item itemvalue="Application.FileReaderEx" />
-        <item itemvalue="Application.FileOutputStreamEx" />
       </list>
     </recent_temporary>
   </component>
