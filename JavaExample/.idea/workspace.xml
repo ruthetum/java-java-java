@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df9fe130-fdf0-4ab1-9d06-23aab70a6b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter16/ReadURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter16/URLConnectionReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,22 +46,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ReadURL">
+  <component name="RunManager" selected="Application.URLConnectionReader">
     <configuration name="FlagEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter13.FlagEx" />
-      <module name="JavaExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterruptEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter13.InterruptEx" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="URLConnectionReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter16.URLConnectionReader" />
+      <module name="JavaExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.URLConnectionReader" />
         <item itemvalue="Application.ReadURL" />
         <item itemvalue="Application.ParseURL" />
         <item itemvalue="Application.SynchronizedEx" />
         <item itemvalue="Application.FlagEx" />
-        <item itemvalue="Application.InterruptEx" />
       </list>
     </recent_temporary>
   </component>
